@@ -1,4 +1,4 @@
-# Power BI : Music Streaming Habits Analysis & Visualization
+# Power BI : Music Streaming Habits Analysis 
 ## Table Of Contents
 - [Project Overview](ProjectOverview)
   
@@ -32,34 +32,30 @@
 
   - Calculate Total Number Of Listeners
 
-  - Identify top and bottom countries, platforms, artists and genres by Total Listeners
+  - Identify Subscription, genre and Platform with highest listeners
 
-  - Calculate average skip rate
+  - Identify top and bottom countries by Total Listeners
+
+  - Identify platform and subscription with the most skip rate 
  
-  - Identify mood, platform and subscription that has the highest skip rate as this tells us how often listeners abandon or skip a song 
-
+    
   ### Results
 
   From the following analysis, I found out :
 
-  - Total Number Of Listeners are 4,000
+  - Total Number Of listeners are 4,000
 
-  - Top country is Japan with 439 listeners while the bottom country is UK with 369 listeners
+  - Subscription with the highest listeners is "free", genre with highest listeners is "POP" and Platform with the highest listeners is "Spotify"
 
-  - Top Platform is SPOTIFY with 1,591 listeners while bottom platform is TIDAL with 221 listeners
- 
-  - Top Artist is SZA with 310 listeners while bottom artist is ARIANA GRANDE with 244 listeners
- 
-  - Top Genre is POP with 721 listeners while bottom genre is country with 165 listeners
+  - Top country is Japan with 439 listeners 
 
-  - Average skip rate is 2,816 %
- 
-  - Mood, platform and subscription with the highest skip rate are Workout ( mood ), Amazon music ( platform ) & Free ( subscription )
+  - Platform with the most skip rate is "Amazon Music", while subscription with the highest skips is "premium"
 
   ### Recommendation
 
-  - Further Analysis should be carried out to understand why Amazon Music & Workout mood has the highest skip rate
-  - Curating a playlist based on listeners past activity will reduce the percentage of skip rate
+  - Curating a playlist based on listeners' past activity will reduce the percentage of skip rate and improve engagement
+  - Focus regional playlists and marketing campaigns in JAPAN which accounts for the largest listener share
+  - Further Analysis should be carried out to understand why Amazon Music & Premium users skip more frequently and what drives higher listener volume on SPOTIFY and POP
  
 
 
