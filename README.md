@@ -57,6 +57,10 @@
   - Focus regional playlists and marketing campaigns in JAPAN which accounts for the largest listener share
   - Further Analysis should be carried out to understand why Amazon Music & Premium users skip more frequently and what drives higher listener volume on SPOTIFY and POP
  
+  ### Limitation
+
+  - No dates or time stamps, which prevents analyzing trends over time, seasonality and user attention 
+ 
 
 
   
